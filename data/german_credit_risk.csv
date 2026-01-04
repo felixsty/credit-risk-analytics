@@ -999,3 +999,4 @@ No checking account,12,Existing credits paid back,Furniture/equipment,1736,< 100
 No checking account,12,Existing credits paid back,Radio/TV,804,< 100 DM,>= 7 years,4,Male single,None,4,Car/other,38,None,Own,1,Skilled employee,1,None,Yes,Good
 < 0 DM,45,Existing credits paid back,Radio/TV,1845,< 100 DM,1 <= ... < 4 years,4,Male single,None,4,Unknown/No property,23,None,For free,1,Skilled employee,1,"Yes, registered",Yes,Bad
 0 <= ... < 200 DM,45,Critical account,Car (used),4576,100 <= ... < 500 DM,Unemployed,3,Male single,None,4,Car/other,27,None,Own,1,Skilled employee,1,None,Yes,Good
+
