@@ -4,6 +4,8 @@
 This dissertation investigates the evolution and effectiveness of analytical techniques in credit risk management, using **SAS Enterprise Miner** to implement and compare traditional statistical methods and modern machine learning approaches.  
 The focus is on evaluating model performance for improved credit risk assessment and decision-making.
 
+**Achievement:** Scored **Distinction (83/100)** for the dissertation.
+
 ---
 
 ## Dataset
