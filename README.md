@@ -60,8 +60,16 @@ credit-risk-analytics/
 ├── data/
 │ └── german_credit_risk.csv         # Dataset used
 │
-├── figures/
-│ └── model_comparison.png           # Key figures from findings and analysis
+├── figures/                         # Key figures from findings and analysis
+│ ├── AUC-ROC.png
+│ ├── box-tidwell_analysis.png
+│ ├── dataset_variables.png
+│ ├── decision_tree.png
+│ ├── performance_metrics.png
+│ ├── process_map.png
+│ ├── significance_test.png
+│ ├── variable_importance_rf.png
+│ └── vif_analysis.png
 |
 └── README.md                        # Project overview
 ```
