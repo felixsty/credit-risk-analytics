@@ -58,7 +58,7 @@ credit-risk-analytics/
 ├── project.emp                      # SAS Enterprise Miner project file
 │
 ├── data/
-│ └── german_credit_risk.csv        # Dataset used
+│ └── german_credit_risk.csv         # Dataset used
 │
 ├── figures/
 │ └── model_comparison.png           # Key figures from findings and analysis
