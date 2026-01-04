@@ -64,3 +64,9 @@ credit-risk-analytics/
 │ └── model_comparison.png           # Key figures from findings and analysis
 |
 └── README.md                        # Project overview
+```
+
+---
+
+This repo demonstrates a **complete analytics workflow**:  
+**data preparation → model building → analysis → insight generation**
